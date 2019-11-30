@@ -1,6 +1,8 @@
-# @harbour/state-machine
+<p align="center">
+  <img style="width: 100%;" src="./assets/logo.png">
+</p>
 
-流程节点执行引擎
+# it-is-a-state-machine
 
 ## Build
 
@@ -11,7 +13,7 @@
 ## Install
 
 ```sh
-> yarn add @harbour/state-machine
+> yarn add it-is-a-state-machine
 ```
 
 ## How To Use

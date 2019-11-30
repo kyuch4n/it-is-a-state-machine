@@ -5,6 +5,7 @@
   "main": "src/core",
   "files": [
     "src/core",
+    "assets",
     "package.json",
     "README.md"
   ],
