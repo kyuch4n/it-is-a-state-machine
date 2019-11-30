@@ -1,11 +1,11 @@
 {
   "name": "it-is-a-state-machine",
-  "version": "1.0.0",
-  "author": "kyuchan",
+  "version": "1.0.2",
+  "author": "kyuch4n",
   "main": "src/core",
   "files": [
     "src/core",
-    "assets",
+    "assets/",
     "package.json",
     "README.md"
   ],
