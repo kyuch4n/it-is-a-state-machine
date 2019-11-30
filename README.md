@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="width: 100%;" src="./assets/logo.png">
+  <img style="width: 100%;" src="https://raw.githubusercontent.com/kyuch4n/it-is-a-state-machine/HEAD/assets/logo.png">
 </p>
 
 # it-is-a-state-machine
