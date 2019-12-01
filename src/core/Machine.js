@@ -123,15 +123,7 @@ class Machine {
   }
 
   _report(nodeName, e) {
-    window.Owl &&
-      window.Owl.addError(e, {
-        combo: false,
-        tags: {
-          nodeName,
-          node: JSON.stringify(this.nodes[nodeName]),
-          error: JSON.stringify(e)
-        }
-      });
+    // TODO: ERROR REPORT
   }
 
   exit() {

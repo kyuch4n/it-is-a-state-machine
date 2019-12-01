@@ -1,6 +1,6 @@
 {
   "name": "it-is-a-state-machine",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "kyuch4n",
   "main": "src/core",
   "files": [
